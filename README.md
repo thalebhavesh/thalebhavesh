@@ -8,12 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavesh1456&label=Profile%20views&color=0e75b6&style=flat" alt="bhavesh1456" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bhavesh1456" target="blank"><img src="https://img.shields.io/twitter/follow/bhavesh1456?logo=twitter&style=for-the-badge" alt="bhavesh1456" /></a> </p>
-
 # 💫 About Me:
-**I’m currently learning:** Devops.<br>💬
-
-
+**I’m currently learning:** DevOps.<br>
 
   ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bhavesh1456)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavesh-thale-741991167)
