@@ -10,7 +10,8 @@
 
 <p align="left"> <a href="https://twitter.com/bhavesh1456" target="blank"><img src="https://img.shields.io/twitter/follow/bhavesh1456?logo=twitter&style=for-the-badge" alt="bhavesh1456" /></a> </p>
 
-- 🌱 I’m currently pursuing **MCA(Master Of Computer Application)**
+# 💫 About Me:
+**I’m currently learning:**  <br>Devops.<br><br>💬
 
 
 
